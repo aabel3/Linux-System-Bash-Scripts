@@ -1,8 +1,6 @@
 #!/bin/bash
 # systemHealth.bash
-# Purpose: Generate a quick system health report (uptime, CPU load, memory,
-#          disk usage, and top resource-consuming processes) and log it to
-#          a report file in the home directory
+# Purpose: Generate a quick system health report (uptime, CPU load, memory,disk usage, and top resource-consuming processes) and log it to a report file in the home directory
 #
 # Usage: ./systemHealth.bash
 #
